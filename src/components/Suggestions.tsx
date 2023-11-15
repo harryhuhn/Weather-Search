@@ -1,7 +1,7 @@
 import { optionType } from './../types/index'
 
 type componentProps = {
-  options: []
+  options: optionType[]
   onSelect: (option: optionType) => void
 }
 
