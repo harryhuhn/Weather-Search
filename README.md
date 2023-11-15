@@ -9,7 +9,7 @@ To run this application in Visual Studio Code for demonstration purposes:
   - go to: https://openweathermap.org/api and create an account
   - hover over your username after creating an account, and select "My API keys"
   - create a file in the project named ".env" and enter: REACT_APP_API_KEY=your_api_key
-      - do not add and quotation marks to the above line when you add it to the .env file
+      - do not add any quotation marks to the above line when you add it to the .env file
   - yarn install
 3. Run the application:
   - run the command "yarn start"
